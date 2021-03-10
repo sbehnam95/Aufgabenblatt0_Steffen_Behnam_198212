@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"de.hhn.ai.prog2.blatt1.abstrakteKlassen"},{"l":"de.hhn.ai.prog2.blatt1.interfaces"}]
